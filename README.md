@@ -2,8 +2,7 @@
 
 
 
-![Ali Nasseri (4)](https://user-images.githubusercontent.com/88454525/147153982-97ec3d7a-a27c-47d4-97a1-dad3d869b323.png)
-
+![Ali Nasseri (3)](https://user-images.githubusercontent.com/88454525/147154055-2e19c681-e43d-4f76-aa76-d5532c6d4839.png)
 
 
 
