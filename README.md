@@ -1,8 +1,7 @@
 
 
+![_Yellow Professional Gradient Tech Internal Communication Website](https://user-images.githubusercontent.com/88454525/147167117-85b566c7-717c-4553-8a97-e9dbf8c86933.png)
 
-
-![Ali Nasseri (3)](https://user-images.githubusercontent.com/88454525/147154055-2e19c681-e43d-4f76-aa76-d5532c6d4839.png)
 
 
 
