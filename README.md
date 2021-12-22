@@ -1,8 +1,7 @@
 
 
-![_Yellow Professional Gradient Tech Internal Communication Website](https://user-images.githubusercontent.com/88454525/147167117-85b566c7-717c-4553-8a97-e9dbf8c86933.png)
 
-
+![_Yellow Professional Gradient Tech Internal Communication Website](https://user-images.githubusercontent.com/88454525/147167202-57f0ebd3-5fc0-472b-8990-85a31a20a2a1.png)
 
 
 
