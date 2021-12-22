@@ -1,4 +1,5 @@
-<img width="500" alt="Ali Nasseri (1)" src="https://user-images.githubusercontent.com/88454525/147152044-6fee2786-c4b9-49a4-8634-1ecc81f0d300.png">
+![Ali Nasseri](https://user-images.githubusercontent.com/88454525/147152149-3ef032fe-0f0c-4824-a109-42836c6e1e6b.png)
+
 
 
 
