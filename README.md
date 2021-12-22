@@ -1,4 +1,9 @@
-### Hi there 👋
+![Ali (1)](https://user-images.githubusercontent.com/88454525/147148954-430c53c8-ead9-4ad9-bf74-be420c96f91b.png)
+
+
+
+
+Hi there 👋
 
 <!--
 **ali-d-nasseri/ali-d-nasseri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![147148954-430c53c8-ead9-4ad9-bf74-be420c96f91b](https://user-images.githubusercontent.com/88454525/147148980-2167277f-158d-40c7-b0b3-f204ff623e3d.png)
+
