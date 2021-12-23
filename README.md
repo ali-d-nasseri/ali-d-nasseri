@@ -13,13 +13,13 @@
 ### <div align="center">I'm Ali, a data scientist working towards becoming a machine learning engineer.</div>  
   
 
-- 🔭 I’m currently working on developing machine learning skills  
+- 🔭 I am a data scientist who is passionate about technology and its application. I love finding innovative way to solve problems
   
 
-- 🌱 I’m currently learning Neural Network  
+- 🌱 I’m currently working towards becoming a machine learning engineer  
   
 
-- ❓ Ask me about anything related technologies  
+- ❓ Ask me about anything related soccer 
   
 
 - ⚡ Fun fact: I pick programming over gaming
