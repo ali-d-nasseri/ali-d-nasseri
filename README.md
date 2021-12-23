@@ -16,7 +16,7 @@
 - 🔭 I am a data scientist who is passionate about technology and its application. I love finding innovative way to solve problems
   
 
-- 🌱 I’m currently working towards becoming a machine learning engineer  
+- 🌱 I’m currently learning neural network
   
 
 - ❓ Ask me about anything related soccer 
