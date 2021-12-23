@@ -22,7 +22,7 @@
 - ❓ Ask me about anything related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I pick programming over gaming
   
 
 <br/>  
